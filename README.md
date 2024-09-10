@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Neill's GitHub stats](https://github-readme-stats-three-theta-58.vercel.app/api?username=xava-dev&show_icons=true&theme=cobalt)
+![Neill's GitHub stats](https://github-readme-stats-three-theta-58.vercel.app/api?username=xava-dev&show_icons=true&theme=github_dark_dimmed&show=reviews,prs_merged&hide=stars,prs,issues)
 
 ## Skills
 
