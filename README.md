@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🌟
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=redis,postgres,mongodb)
 
-#### Other tools & Technologies
+#### Other Tools & Technologies
 ![Others](https://skillicons.dev/icons?i=pnpm,npm,yarn,git,github,vscode,sentry,vercel,figma)
 
 
