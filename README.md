@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Neill! 👋
 
-<!--
-**xava-dev/xava-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Neill's GitHub stats](https://github-readme-stats-three-theta-58.vercel.app/api?username=xava-dev&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=ts,js,elixir,ruby,py,solidity,r )
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,cypress,html,css,tailwind,styledcomponents)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails,docker)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=redis,postgres,mongodb)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=pnpm,npm,yarn,git,github,vscode,sentry,vercel,figma)
+
+
+
