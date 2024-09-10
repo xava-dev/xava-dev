@@ -1,4 +1,4 @@
-# Hi, I'm Neill! 👋
+# Hi, I am Neill 👋
 
 Welcome to my GitHub profile! 🌟
 
