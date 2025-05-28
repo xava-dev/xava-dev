@@ -15,7 +15,7 @@
 ![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails,docker)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=redis,postgres,mongodb)
+![Database & Tools](https://skillicons.dev/icons?i=redis,postgres,mongodb,mysql)
 
 #### Other Tools & Technologies
 ![Others](https://skillicons.dev/icons?i=pnpm,npm,yarn,bash,git,github,vscode,sentry,vercel,figma)
