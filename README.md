@@ -4,7 +4,7 @@
 ## Skills
 
 #### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=ts,js,elixir,ruby,py,solidity,r&perline=6)
+![Programming Languages](https://skillicons.dev/icons?i=ts,js,elixir,ruby,py,solidity&perline=6)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,styledcomponents,redux,jest,vitest,cypress,threejs&perline=6)
