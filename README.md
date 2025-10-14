@@ -16,7 +16,7 @@
 ![Database](https://skillicons.dev/icons?i=redis,mysql,postgres,supabase,prisma,mongodb&perline=6)
 
 #### CI/CD
-![Database](https://skillicons.dev/icons?i=githubactions,docker,kubernetes&perline=6)
+![Database](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,terraform&perline=6)
 
 #### Other Tools & Technologies
 ![Other Tools & Technologies](https://skillicons.dev/icons?i=pnpm,npm,yarn,bash,git,github,vscode,sentry,vercel,figma&perline=6)
