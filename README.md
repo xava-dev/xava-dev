@@ -10,10 +10,10 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,styledcomponents,redux,jest,vitest,cypress,threejs&perline=6)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails&perline=6)
+![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails,rabbitmq&perline=6)
 
 #### Database
-![Database](https://skillicons.dev/icons?i=redis,postgres,supabase,mongodb,mysql,rabbitmq&perline=6)
+![Database](https://skillicons.dev/icons?i=redis,postgres,supabase,mongodb,mysql&perline=6)
 
 #### CI/CD
 ![Database](https://skillicons.dev/icons?i=githubactions,docker,kubernetes&perline=6)
