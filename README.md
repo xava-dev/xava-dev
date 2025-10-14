@@ -6,19 +6,22 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,elixir,ruby,py,solidity,r )
+![Programming Languages](https://skillicons.dev/icons?i=ts,js,elixir,ruby,py,solidity,r&perline=6)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,styledcomponents,cypress,threejs)
+![Frontend Technologies](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,styledcomponents,redux,jest,vitest,cypress,threejs&perline=6)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails,docker)
+![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails&perline=6)
 
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=redis,postgres,mongodb,mysql)
+#### Database
+![Database](https://skillicons.dev/icons?i=redis,postgres,supabase,mongodb,mysql,rabbitmq&perline=6)
+
+#### CI/CD
+![Database](https://skillicons.dev/icons?i=githubactions,docker,kubernetes&perline=6)
 
 #### Other Tools & Technologies
-![Others](https://skillicons.dev/icons?i=pnpm,npm,yarn,bash,git,github,vscode,sentry,vercel,figma)
+![Other Tools & Technologies](https://skillicons.dev/icons?i=pnpm,npm,yarn,bash,git,github,vite,webpack,vscode,sentry,vercel,figma&perline=6)
 
 
 
