@@ -13,7 +13,7 @@
 ![Backend Technologies](https://skillicons.dev/icons?i=graphql,nodejs,rails,rabbitmq&perline=6)
 
 #### Database
-![Database](https://skillicons.dev/icons?i=redis,postgres,supabase,mongodb,mysql&perline=6)
+![Database](https://skillicons.dev/icons?i=redis,mysql,postgres,supabase,prisma,mongodb&perline=6)
 
 #### CI/CD
 ![Database](https://skillicons.dev/icons?i=githubactions,docker,kubernetes&perline=6)
